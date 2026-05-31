@@ -27,7 +27,7 @@ function InstagramKANAL() {
 
 function InstagramKANAL1() {
     setTimeout(() => {
-        window.open("https://www.instagram.com/hucn1dd1n/", "_blank");
+        window.open("https://www.instagram.com/zikru.llayev?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==", "_blank");
     }, 1500);
 }
 function InstagramKANAL2() {
